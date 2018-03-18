@@ -10,6 +10,7 @@ dependencies:
   - notebook
   - ipython
   - h5py
+  - ipywidgets
   - mayavi
   - pip:
     - cloudpickle
