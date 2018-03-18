@@ -1,2 +1,1 @@
-source activate kernel # ensure we are in the py27 environment
-jupyter nbextension install --py mayavi --user
+
