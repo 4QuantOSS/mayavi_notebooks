@@ -3,12 +3,12 @@ channels:
 - defaults
 - conda-forge
 dependencies:
-- pip
+- python=2.7
 - mkl
 - numpy
 - scipy
 - matplotlib
-- pyqt=5
+- pyqt
 - vtk
 - pandas
 - scikit-learn
