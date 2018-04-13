@@ -1,2 +1,2 @@
 xvfb
-libgl1-mesa-glx
+libglu1
